@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-abeezee: ABeeZee;
+  --font-bai-jamjuree: "Bai Jamjuree";
+  --font-baloo-bhaina: "Baloo Bhaina";
+  --font-aldrich: Aldrich;
+
+  /* font sizes */
+  --font-size-15xl: 34px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+
+  /* border radiuses */
+  --br-sm: 14px;
+  --br-6xs: 7px;
+
+  --font-abeezee: ABeeZee;
+    --font-bai-jamjuree: "Bai Jamjuree";
+    --font-baloo-bhaina: "Baloo Bhaina";
+    --font-aldrich: Aldrich;
+    --font-size-15xl: 34px;
+    --color-white: #fff;
+    --color-black: #000;
+    --br-sm: 14px;
+    --br-6xs: 7px;
+}
