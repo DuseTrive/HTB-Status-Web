@@ -1,12 +1,14 @@
 {
-  "name": "weather",
+  "name": "HTB-statusbar",
   "version": "1.0.0",
-  "description": "",
+  "description": "This Widget displays the status of the HTB using players public api key which is userID",
   "main": "server.js",
   "scripts": {
-    "dev": "nodemon server.js --ignore package.json"
+    "dev": "nodemon server.js --ignore package.json",
+    "deploy": "gh-pages -d ./server.js"
+
   },
-  "author": "",
+  "author": "DuseTrive",
   "license": "ISC",
   "type": "module",
   "dependencies": {
