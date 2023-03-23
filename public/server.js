@@ -1,15 +1,6 @@
 import express, { response } from 'express';
 import fetch from 'node-fetch';
 
-const app = express();
-const port = process.env.PORT || 8080;
-
-app.use(express.static('public'));
-
-app.listen(port, () => {
-  console.log(`Example app listening at http://localhost:${port}`);
-});
-
 app.get('/HTB', async (request, response) => {
   try {
     const options = {
