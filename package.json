@@ -5,8 +5,7 @@
   "main": "server.js",
   "scripts": {
     "dev": "nodemon server.js --ignore package.json",
-    "deploy": "gh-pages -d ./server.js"
-
+    "deploy": "gh-pages -d server.js"
   },
   "author": "DuseTrive",
   "license": "ISC",
