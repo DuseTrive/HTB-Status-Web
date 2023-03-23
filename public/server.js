@@ -1,4 +1,3 @@
-import express, { response } from 'express';
 import fetch from 'node-fetch';
 
 app.get('/HTB', async (request, response) => {
