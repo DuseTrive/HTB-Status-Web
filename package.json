@@ -6,6 +6,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node build/server.js",
+    "start-node" : "node build/server.js",
     "dev": "nodemon server.js --ignore package.json",
     "deploy": "gh-pages -d ./public"
   },
