@@ -1,5 +1,5 @@
 {
-  "homepage": "http:///DuseTrive.github.com/HTB-Staus-Widget-/server.js",
+  "homepage": "http:///DuseTrive.github.com/HTB-Staus-Widget-.git",
   "name": "htb-statusbar",
   "version": "1.0.0",
   "description": "This Widget displays the status of the HTB using players public api key which is userID",
