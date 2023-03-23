@@ -5,11 +5,8 @@
   "description": "This Widget displays the status of the HTB using players public api key which is userID",
   "main": "server.js",
   "scripts": {
-    "start": "script.js",
-    "build": "scripts.js",
     "dev": "nodemon server.js --ignore package.json",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d ./"
   },
   "author": "DuseTrive",
   "license": "ISC",
