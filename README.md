@@ -27,8 +27,8 @@ The client is built using HTML, CSS, and JavaScript, and receives the data from 
 ## Images :camera:
 Here is a screenshot of the web application:
 <img src="https://user-images.githubusercontent.com/78523790/227508752-35239d13-0c07-467c-8efd-f25a0f542694.png">
-
 <br>
+
 ## Usage :hammer_and_wrench:
 To view the Hack The Box Status Display web application, visit the following URL: https://dusetrive-htb-status-widjet.onrender.com/. 
 <br>
