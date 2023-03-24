@@ -1,0 +1,6 @@
+pakage-lock,json
+node_modules/*
+.idea/*
+
+public/svg/*
+!public/svg/ .gitkeep
