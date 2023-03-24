@@ -1,5 +1,3 @@
-import express, { response } from 'express';
-import fetch from 'node-fetch';
 
 const app = express();
 const port = process.env.PORT || 8080;
