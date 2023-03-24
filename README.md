@@ -30,7 +30,7 @@ Here is a screenshot of the web application:
 <br>
 
 ## Usage :hammer_and_wrench:
-To view the Hack The Box Status Display web application, visit the following URL: https://dusetrive-htb-status-widjet.onrender.com/. 
+To view the Hack The Box Status Display web application, visit the following URL: https://dusetrive-htb-status-web.onrender.com/ 
 <br>
 
 ## Credits :clap:
