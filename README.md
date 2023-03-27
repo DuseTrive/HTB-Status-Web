@@ -34,7 +34,7 @@ To view the Hack The Box Status Display web application, visit the following URL
 <br>
 
 ## Credits :clap:
-This project was built by [your name] and is hosted on Render.com. The user interface was designed using Figma and converted to HTML and CSS using LocoFy AI. The Hack The Box public user API was used to retrieve the user's status.
+This project was built by DuseTrive and is hosted on Render.com. The user interface was designed using Figma and converted to HTML and CSS using LocoFy AI. The Hack The Box public user API was used to retrieve the user's status.
 <br>
  
 ## License :page_facing_up:
